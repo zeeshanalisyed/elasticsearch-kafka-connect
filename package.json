@@ -1,5 +1,5 @@
 {
-  "name": "elasticsearch-kafka-connect",
+  "name": "elasticsearch-kafka-connect-fork",
   "version": "0.0.1",
   "description": "ElasticSearch Kafka connector",
   "main": "index.js",
